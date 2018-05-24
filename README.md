@@ -5,6 +5,10 @@ Riscure Hack Me embedded hardware CTF 2017-2018
 
 ## Write-ups
 
+* [ResultsMayVary](https://github.com/ResultsMayVary/ctf/tree/master/RHME3)
+* [Grazfather](https://grazfather.github.io/ctf/re/crypto/2017/09/03/RHME3-Quals-Whitebox.html)
+* [Govanify](https://govanify.com/post/rhme3-quals-ctf/)
+
 
 # Main Event
 
